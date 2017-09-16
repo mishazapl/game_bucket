@@ -1,0 +1,7 @@
+#Sat Sep 16 20:30:43 EET 2017
+base.0=/home/mihail/Android/project/Game-One/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_27047dc6af5890fe6149f7e4ea2c371d864357fb
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/mihail/Android/project/Game-One/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f83def445d7d742e3ecc027eeaabc1457ed95061/classes.dex
+base.1=/home/mihail/Android/project/Game-One/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f83def445d7d742e3ecc027eeaabc1457ed95061
+file.0=/home/mihail/Android/project/Game-One/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_27047dc6af5890fe6149f7e4ea2c371d864357fb/classes.dex
